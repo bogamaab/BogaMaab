@@ -18,7 +18,7 @@ group :assets do
   gem 'coffee-rails'
   gem 'compass-rails'
   gem 'compass-h5bp'
-  gem 'bootstrap-sass'
+  gem 'bootstrap-sass', '2.0.4'
   gem 'less-rails',   '2.1.6'
   gem 'uglifier', '>= 1.0.3'
 end
