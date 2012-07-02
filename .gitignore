@@ -1,0 +1,12 @@
+.bundle
+log/*.log
+.idea/*
+tmp/
+config/database.yml
+public/uploads
+.tddium*
+.tddium
+.DS_Store
+public/upload
+db/*.sqlite3
+
